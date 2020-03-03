@@ -1,3 +1,11 @@
+'''
+@Descripttion: 
+@version: 
+@Author: sueRimn
+@Date: 2020-03-02 19:19:32
+@LastEditors: sueRimn
+@LastEditTime: 2020-03-03 13:13:27
+'''
 # 一些实用的函数
 
 import random

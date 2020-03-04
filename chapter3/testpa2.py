@@ -1,5 +1,5 @@
 '''
-@Descripttion: 元组的操作内容
+@Description: 元组的操作内容
 @version: 1.0
 @Author: xasmall
 @Date: 2020-03-03 14:10:35

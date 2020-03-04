@@ -1,10 +1,10 @@
 '''
-@Descripttion: 字典的一些操作
+@Description: 字典的一些操作
 @version: 1.0
 @Author: xasmall
 @Date: 2020-03-03 16:19:40
 @LastEditors: xasmall
-@LastEditTime: 2020-03-03 16:54:07
+@LastEditTime: 2020-03-04 16:00:15
 '''
 
 import string

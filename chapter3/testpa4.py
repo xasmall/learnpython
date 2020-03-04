@@ -1,10 +1,10 @@
 '''
-@Descripttion: 集合操作
+@Description: 集合操作
 @version: 1.0
 @Author: xasmall
 @Date: 2020-03-03 16:56:11
 @LastEditors: xasmall
-@LastEditTime: 2020-03-04 10:48:40
+@LastEditTime: 2020-03-04 15:59:29
 '''
 import random
 from random import randrange

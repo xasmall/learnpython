@@ -4,7 +4,7 @@
 @Author: xasmall
 @Date: 2020-03-02 19:19:32
 @LastEditors: xasmall
-@LastEditTime: 2020-03-05 12:38:19
+@LastEditTime: 2020-03-05 12:41:01
 '''
 # 一些实用的函数
 
@@ -37,7 +37,7 @@ print(reduce(lambda x,y: x+y,range(1,10)))
 # filter()将一个单参数函数作用到一个序列上，返回该序列中使得该函数返回值为True的那些元素组成的filter对象，如果指定函数为None，则返回序列中等价于True的元素
 seq=['foo','x41','!?','***']
 def fun(x):
-    return x.isalnum()  用于测试x是否为字母或数字
+    return x.isalnum()  #用于测试x是否为字母或数字
 
 print(list(filter(fun,seq)))
 

@@ -29,7 +29,7 @@ Root.classShowTotal()
 Root.show(rr)
 ```
 
-![image-20200306214203356](C:\Users\xasmall\AppData\Roaming\Typora\typora-user-images\image-20200306214203356.png)
+![image-20200306214203356](image-20200306214203356.png)
 
 ### 1.数据成员
 
